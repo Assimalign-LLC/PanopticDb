@@ -1,2 +1,2 @@
 # PanopticDb
-An all encompassing database engine for storing, aggregating, analyzing, data structures ranging from structured, semi-structured, to unstructured. 
+An open source all encompassing database engine for storing, aggregating, and analyzing various data structures ranging from structured, semi-structured, to unstructured. 
