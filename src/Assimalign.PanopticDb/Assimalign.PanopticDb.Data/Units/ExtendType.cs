@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution.Units
+namespace Assimalign.PanopticDb.Data.Units
 {
-    internal class Document
+    internal enum ExtendType : short
     {
+        DataExtend = 1,
+        IndexExtend = 2
     }
 }

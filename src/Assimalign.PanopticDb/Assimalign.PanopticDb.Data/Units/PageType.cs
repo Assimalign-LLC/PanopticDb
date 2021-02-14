@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution
+namespace Assimalign.PanopticDb.Data.Units
 {
-    internal interface ILogParser
+    internal enum PageType : short
     {
+        DataPage = 0,
+        IndexPage = 1
     }
 }

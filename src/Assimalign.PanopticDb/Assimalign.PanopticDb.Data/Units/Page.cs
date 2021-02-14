@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution.Units
+namespace Assimalign.PanopticDb.Data.Units
 {
-    internal enum DocumentType
+    internal class Page
     {
-        Json = 1,
-        Xml = 2,
-        PlainText = 3
+
+
+
+
+        public partial class PageHeader
+        {
+
+        }
     }
 }

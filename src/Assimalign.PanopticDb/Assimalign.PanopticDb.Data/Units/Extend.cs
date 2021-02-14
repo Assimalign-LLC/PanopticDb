@@ -4,11 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution.Units
+namespace Assimalign.PanopticDb.Data.Units
 {
-    internal enum PageType : short
+    internal class Extend
     {
-        DataPage = 0,
-        IndexPage = 1
+
+
+
+        internal partial class Header
+        {
+
+        }
     }
 }

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution.Units
+namespace Assimalign.PanopticDb.Data.Units
 {
     using Constants;
+
     /* Resource Summary
      * 
      * Glossary:

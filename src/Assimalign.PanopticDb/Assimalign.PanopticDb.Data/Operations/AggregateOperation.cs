@@ -4,16 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution.Units
+namespace Assimalign.PanopticDb.Data.Operations
 {
-    internal class Extend
+    class AggregateOperation
     {
-
-
-
-        internal partial class Header
-        {
-
-        }
     }
 }

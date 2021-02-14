@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution
+namespace Assimalign.PanopticDb.Data
 {
     public class DatParser : FileStream, IDatParser
     {

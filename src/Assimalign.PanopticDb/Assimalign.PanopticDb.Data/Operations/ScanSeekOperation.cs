@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution.Units
+namespace Assimalign.PanopticDb.Data.Operations
 {
-    internal enum ExtendType : short
+    class ScanSeekOperation
     {
-        DataExtend = 1,
-        IndexExtend = 2
     }
 }

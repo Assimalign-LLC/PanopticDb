@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution.Operations
+namespace Assimalign.PanopticDb.Data.Units
 {
-    class AggregateOperation
+    internal class Document
     {
     }
 }

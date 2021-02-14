@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assimalign.PanopticDb.Execution
+namespace Assimalign.PanopticDb.Data
 {
     /* Implementation Requirements for Parsing DAT File
      * 1. Need a Method to Locate Correct Page Locations ✓

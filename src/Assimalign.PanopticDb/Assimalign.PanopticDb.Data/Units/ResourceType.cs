@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assimalign.PanopticDb.Execution.Units
+namespace Assimalign.PanopticDb.Data.Units
 {
     internal enum ResourceType : short
     {

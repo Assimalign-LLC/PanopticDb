@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assimalign.PanopticDb.Execution
+namespace Assimalign.PanopticDb.Data
 {
     internal interface IPagingCommands
     {

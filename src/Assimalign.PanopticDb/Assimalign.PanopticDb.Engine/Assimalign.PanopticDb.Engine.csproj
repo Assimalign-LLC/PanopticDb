@@ -10,6 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Assimalign.PanopticDb.Execution\Assimalign.PanopticDb.Execution.csproj" />
+    <ProjectReference Include="..\Assimalign.PanopticDb.Execution\Assimalign.PanopticDb.Data.csproj" />
   </ItemGroup>
 </Project>
