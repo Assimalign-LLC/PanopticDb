@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Assimalign.PanopticDb.Server": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
